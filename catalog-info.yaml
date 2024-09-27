@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: final-component
+  description: final description
+  
+spec:
+  type: ci-cd
+  owner: user:guest
+  lifecycle: production
